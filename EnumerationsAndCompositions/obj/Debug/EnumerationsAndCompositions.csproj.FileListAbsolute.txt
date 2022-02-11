@@ -1,0 +1,8 @@
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\EnumerationsAndCompositions\EnumerationsAndCompositions\bin\Debug\EnumerationsAndCompositions.exe.config
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\EnumerationsAndCompositions\EnumerationsAndCompositions\bin\Debug\EnumerationsAndCompositions.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\EnumerationsAndCompositions\EnumerationsAndCompositions\bin\Debug\EnumerationsAndCompositions.pdb
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\EnumerationsAndCompositions\EnumerationsAndCompositions\obj\Debug\EnumerationsAndCompositions.csproj.AssemblyReference.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\EnumerationsAndCompositions\EnumerationsAndCompositions\obj\Debug\EnumerationsAndCompositions.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\EnumerationsAndCompositions\EnumerationsAndCompositions\obj\Debug\EnumerationsAndCompositions.csproj.CoreCompileInputs.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\EnumerationsAndCompositions\EnumerationsAndCompositions\obj\Debug\EnumerationsAndCompositions.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\EnumerationsAndCompositions\EnumerationsAndCompositions\obj\Debug\EnumerationsAndCompositions.pdb
