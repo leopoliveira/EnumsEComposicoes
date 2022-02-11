@@ -12,3 +12,5 @@ O exercício engloba conceitos de POO, tais como:
   <li>Construtores</li>
   <li>Encapsulamento</li>
 </ol>
+
+![SistemaFuncioando](https://user-images.githubusercontent.com/35302072/153519884-423ab7b7-fef0-41ec-a1a5-fb4be48c2d65.PNG)
