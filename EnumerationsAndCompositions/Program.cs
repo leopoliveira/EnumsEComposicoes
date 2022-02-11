@@ -61,7 +61,7 @@ namespace EnumerationsAndCompositions
             Console.WriteLine("Worker Income: \n");
             Console.WriteLine($"\tName: {worker.Name}");
             Console.WriteLine($"\tDepartment: {worker.Department.Name}");
-            Console.WriteLine($"\tIncome: {income}");
+            Console.WriteLine($"\tIncome for {incomeDate.Month}/{incomeDate.Year}: {income}");
 
             Console.WriteLine("-----------------------------------------------");
             Console.WriteLine("Bye!!!\n"); 
